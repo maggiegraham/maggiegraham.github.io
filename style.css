@@ -697,7 +697,7 @@ ul.columns dl em {
 }
 .section--education em,
 .section--education strong {
-  margin: 0 0 0 1.5em;
+  margin: 0 1.5em 0 0;
 }
 
 .section--skills {
